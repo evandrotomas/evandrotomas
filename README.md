@@ -92,3 +92,13 @@ Aqui no meu GitHub você encontrará projetos que representam minha evolução e
 <img height="20" src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/linkedin.svg"/>
 <img  src="https://img.shields.io/badge/Evandro%20Tomas-0077B5?style=flat-square&logoColor=white">
 </a>
+<<<<<<< HEAD
+=======
+
+<h2>🚀 &nbsp;My GitHub Stats</h2>
+
+![Evandro Tomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evandrotomas&show_icons=true&theme=dracula)
+
+
+![Metrics](./github-metrics.svg)
+>>>>>>> 16e2f39f29e5787660459cdc1e70d823522130b6
