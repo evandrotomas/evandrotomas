@@ -1,14 +1,14 @@
 <h1>👋 &nbsp;Olá, Eu sou Evandro Tomas  </h1>
 Sou um entusiasta de tecnologia impulsionado pela curiosidade, estou sempre em constante evolução, sempre buscando novos conhecimentos e aprimorando minhas habilidades em desenvolvimento web. Já desenvolvi projetos relevantes que reforçam minha dedicação e mostram minha trajetória crescente na área.
-<p align="center">
 
-</p>
+<p align="center" style="margin-top: 20px;">
 <a href="https://www.linkedin.com/in/evandro-tomas/" target="_blank">
 <img height="20" src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/linkedin.svg"/>
   <img  src="https://img.shields.io/badge/Evandro%20Tomas-0077B5?style=flat-square&logoColor=white">
 </a>
 <a href="mailto:evandrotomas4321@gmail.coms"><img src="https://img.shields.io/badge/-evandrotomas4321@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
+</p>
 
 - 🔍 Estudante dedicado de desenvolvimento web
 - 💡 Apaixonado por criação de interfaces e soluções funcionais
