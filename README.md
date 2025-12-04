@@ -71,6 +71,14 @@ Aqui no meu GitHub você encontrará projetos que representam minha evolução e
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Figma](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=)
 
+<h2> 📫 &nbsp;Como falar comigo</h2>
+
+<a href="mailto:evandrotomas4321@gmail.coms"><img src="https://img.shields.io/badge/-evandrotomas4321@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>  
+<a href="https://www.linkedin.com/in/evandro-tomas/" target="_blank">
+<img height="20" src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/linkedin.svg"/>
+<img  src="https://img.shields.io/badge/Evandro%20Tomas-0077B5?style=flat-square&logoColor=white">
+</a>
+
 <h2>📊 &nbsp;Minhas Estatísticas</h2>
 
 ⭐ GitHub Stats
@@ -84,21 +92,3 @@ Aqui no meu GitHub você encontrará projetos que representam minha evolução e
 📘 Linguagens Mais Usadas
 
 ![Metrics](./github-metrics.svg)
-
-<h2> 📫 &nbsp;Como falar comigo</h2>
-
-<a href="mailto:evandrotomas4321@gmail.coms"><img src="https://img.shields.io/badge/-evandrotomas4321@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>  
-<a href="https://www.linkedin.com/in/evandro-tomas/" target="_blank">
-<img height="20" src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/linkedin.svg"/>
-<img  src="https://img.shields.io/badge/Evandro%20Tomas-0077B5?style=flat-square&logoColor=white">
-</a>
-<<<<<<< HEAD
-=======
-
-<h2>🚀 &nbsp;My GitHub Stats</h2>
-
-![Evandro Tomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evandrotomas&show_icons=true&theme=dracula)
-
-
-![Metrics](./github-metrics.svg)
->>>>>>> 16e2f39f29e5787660459cdc1e70d823522130b6
