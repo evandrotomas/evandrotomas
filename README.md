@@ -82,3 +82,6 @@ Aqui no meu GitHub você encontrará projetos que representam minha evolução e
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
 ![Evandro Tomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evandrotomas&show_icons=true&theme=dracula)
+
+
+![Metrics](./github-metrics.svg)
