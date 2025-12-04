@@ -1,4 +1,5 @@
-<h1>👋 &nbsp;Olá, Eu sou Evandro Tomas, Sou um entusiasta de tecnologia, impulsionado pela curiosidade e pela vontade de criar soluções inteligentes. Busco evoluir continuamente minhas habilidades e participar de projetos que gerem impacto real. </h1>
+<h1>👋 &nbsp;Olá, Eu sou Evandro Tomas  </h1>
+Sou um entusiasta de tecnologia impulsionado pela curiosidade, estou sempre em constante evolução, sempre buscando novos conhecimentos e aprimorando minhas habilidades em desenvolvimento web. Já desenvolvi projetos relevantes que reforçam minha dedicação e mostram minha trajetória crescente na área.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/evandro-tomas/" target="_blank">
@@ -11,12 +12,11 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-Sou um desenvolvedor em início de carreira, movido pela curiosidade e pelo aprendizado contínuo. Estou sempre estudando novas tecnologias e aprimorando minhas habilidades por meio de projetos práticos e desafios reais.
-
-- 🌱 Sempre estudando e explorando novas ferramentas e linguagens.
-- 🧩 Interesse em desenvolvimento web, interfaces modernas e soluções escaláveis.
-- 🛠️ Já desenvolvi projetos de relevância, que demonstram minha capacidade de evoluir e aplicar conceitos na prática.
-- 🎯 Focado em crescer como profissional e contribuir cada vez mais com soluções úteis.
+- 🔍 Estudante dedicado de desenvolvimento web
+- 💡 Apaixonado por criação de interfaces e soluções funcionais
+- 📚 Sempre aprendendo e experimentando novas tecnologias
+- 🛠️ Construindo projetos cada vez mais robustos
+- 🎯 Em busca da minha primeira oportunidade como desenvolvedor
 
 <h2>📂 Meus projetos</h2>
 
@@ -71,6 +71,20 @@ Aqui no meu GitHub você encontrará projetos que representam minha evolução e
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Figma](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=)
 
+<h2>📊 &nbsp;Minhas Estatísticas</h2>
+
+⭐ GitHub Stats
+
+![Evandro Tomas's GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=evandrotomas&show_icons=true&theme=dracula)
+
+🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=evandrotomas&theme=dracula&mode=weekly)
+
+📘 Linguagens Mais Usadas
+
+![Metrics](./github-metrics.svg)
+
 <h2> 📫 &nbsp;Como falar comigo</h2>
 
 <a href="mailto:evandrotomas4321@gmail.coms"><img src="https://img.shields.io/badge/-evandrotomas4321@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>  
@@ -78,7 +92,3 @@ Aqui no meu GitHub você encontrará projetos que representam minha evolução e
 <img height="20" src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/linkedin.svg"/>
 <img  src="https://img.shields.io/badge/Evandro%20Tomas-0077B5?style=flat-square&logoColor=white">
 </a>
-
-<h2>🚀 &nbsp;My GitHub Stats</h2>
-
-![Evandro Tomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evandrotomas&show_icons=true&theme=dracula)
