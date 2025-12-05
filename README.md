@@ -1,9 +1,8 @@
 <h1>👋 &nbsp;Olá, Eu sou Evandro Tomas  </h1>
 Sou um entusiasta de tecnologia impulsionado pela curiosidade, estou sempre em constante evolução, sempre buscando novos conhecimentos e aprimorando minhas habilidades em desenvolvimento web. Já desenvolvi projetos relevantes que reforçam minha dedicação e mostram minha trajetória crescente na área.
 
-<br>
-
 <p align="center">
+<br>
 <a href="https://www.linkedin.com/in/evandro-tomas/" target="_blank">
 <img height="20" src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/linkedin.svg"/>
   <img  src="https://img.shields.io/badge/Evandro%20Tomas-0077B5?style=flat-square&logoColor=white">
